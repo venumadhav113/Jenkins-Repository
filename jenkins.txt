@@ -6,4 +6,4 @@ apt install fontconfig openjdk-21-jre
 //corn syntax
 //
 // amazon linux
-// linux
+
