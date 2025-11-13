@@ -9,3 +9,5 @@ apt install fontconfig openjdk-21-jre
 
 //poll scm
 checking with poll SCM 
+
+updated the jenkins file
