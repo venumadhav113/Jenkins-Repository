@@ -2,3 +2,4 @@ This is the jenkins server and we can install  by using the below commands
 apt install fontconfig openjdk-21-jre
 
 //Adding the data without pull the code
+//corn syntax
